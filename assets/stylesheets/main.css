@@ -430,6 +430,14 @@ h5 {
 	margin-right: 0;
   }
 
+  .teaser img {
+	border-radius: 5px;
+	display: block;
+	margin-bottom: 22px;
+	max-width: 100%
+  }
+
+
   /*
   ========================================
   Speakers
