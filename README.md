@@ -33,6 +33,7 @@ Improving my ability to structure HTML documents for better readability and main
 - CSS3: For styling and layout enhancements.
 
 ## How to view project 
+[View](https://ennyonthegit.github.io/webpage/index.html)
 
 ## Future improvements
 - Add more CSS features like alternating row colors for better readability.
