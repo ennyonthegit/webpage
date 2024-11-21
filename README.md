@@ -12,8 +12,6 @@ This project is a simple demonstration of how to:
 working on this project helped me 
 
 ### 1. Understand the structure of HTML tables 
-- tags like "<table>", "<tr>", "<th>" and "<td>".
-- how to group headings and body section with <thead>, <tbody>, and <tfood>.
 
 ### 2. Apply basic CSS styles 
 - Styling tables with borders, padding, and spacing.
