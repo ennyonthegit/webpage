@@ -12,7 +12,7 @@ This project is a simple demonstration of how to:
 working on this project helped me 
 
 ### 1. Understand the structure of HTML tables 
-- tags like <table>, <tr>, <th> and <td>.
+- tags like "<table>", "<tr>", "<th>" and "<td>".
 - how to group headings and body section with <thead>, <tbody>, and <tfood>.
 
 ### 2. Apply basic CSS styles 
@@ -20,7 +20,7 @@ working on this project helped me
 - Adding color and hover effects for a more interactive design.
 
 ### 3. Create a responsive layout:
--Understanding how content organization can affect design flexibility.
+Understanding how content organization can affect design flexibility.
 
 ### 4. Work with layout structure:
 Improving my ability to structure HTML documents for better readability and maintainability.
